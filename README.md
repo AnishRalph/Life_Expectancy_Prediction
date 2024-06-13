@@ -47,6 +47,9 @@ The dataset used in this project is from Kaggle and can be found [here](https://
 ## Results
 The project evaluates the model using Root Mean Squared Error (RMSE) and plots the actual vs. predicted life expectancy. It also predicts life expectancy for the next year and saves the results to a CSV file (predicted_life_expectancy.csv).
 
+![image](https://github.com/AnishRalph/Life_Expectancy_Prediction/assets/65563438/2c969af4-4263-4d05-8dcd-8e7125cd629b)
+
+
 ## Acknowledgements
 
 The dataset used in this project is provided by Kaggle and can be found [here](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
